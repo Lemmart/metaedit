@@ -15,8 +15,8 @@
 - **OS:** Windows 10, MacOS
 
 ## How to download?
-- **Windows 10:** download the `MetaEdit.exe` file in `dist/metadata.app/Windows10/`
-- **MacOS:** download the `MetaEdit` file in `dist/metadata.app/MacOS/`
+- **Windows 10:** download the `metaedit.exe` file in `dist/metadata.app/Windows10/`
+- **MacOS:** download the `metaedit` file in `dist/metadata.app/MacOS/`
 
 ## Contributing
 Please submit pull requests from a personal branch against the `main` repository branch. Pull requests will be reviewed in a timely fashion and may be merged upon approval only.
