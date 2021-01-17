@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="MetaEdit",
+    name="metaedit",
     version="0.0.1",
     author="Liam Emmart",
     author_email="liam.emmart@gmail.com",
